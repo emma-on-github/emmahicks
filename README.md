@@ -1,1 +1,2 @@
-I’m currently learning SQL and Python. 
+- Data Infrastructure and Analytics
+- SQL, Python
