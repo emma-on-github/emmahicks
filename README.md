@@ -1,7 +1,7 @@
 About Me:
 
-- Working within Data Infrastructure and Analytics
-- Interests include ML, DA, RPA
-- Languages include SQL, Python
+- Data Administrator	
+- Interests: ML, DA, RPA
+- Learning: SQL, Python
 - High functioning Autism Spectrum Condition
 - Tea lover
