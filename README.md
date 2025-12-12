@@ -5,5 +5,6 @@ About Me:
 - Neurodivergent (Autism Spectrum Condition / Dyslexia)
 - Interests: DA, RPA, ML
 - Learning: SQL, Python
-- Tea lover
 - Open to new opportunities
+- Tea lover
+
